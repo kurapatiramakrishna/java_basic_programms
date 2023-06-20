@@ -1,2 +1,2 @@
 # java_basics
-java basic code
+java basic codes
